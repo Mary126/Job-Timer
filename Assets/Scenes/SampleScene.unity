@@ -3122,7 +3122,7 @@ GameObject:
   - component: {fileID: 2074110936}
   m_Layer: 5
   m_Name: Set Alarm
-  m_TagString: Untagged
+  m_TagString: Set Alarm Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
