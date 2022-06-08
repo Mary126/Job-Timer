@@ -25,6 +25,7 @@ public class TimeController : MonoBehaviour
     public void SetAlarmTime(int seconds, int minutes, int hours)
     {
         alarmTime = new Vector3(hours, minutes, seconds);
+        Debug.Log("Alarm set at: " + hours + " " + minutes + " " + seconds);
     }
     public void SetUserTime(int seconds, int minutes, int hours)
     {
